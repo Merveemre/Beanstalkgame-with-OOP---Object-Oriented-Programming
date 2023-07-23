@@ -1,0 +1,7 @@
+M - Man
+S - Shovel
+B - Bean
+X - Goal
+F - Fertilizer
+H - Hydration
+# - Wall
